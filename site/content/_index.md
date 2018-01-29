@@ -1,10 +1,10 @@
 ---
-title: "Product Market Fit Agency"
-subtitle: Ultra Fast Visibilty Deployment on the French market
+title: "Risk Reward Web Agency"
+subtitle: Performance Based Ultra Fast Deployments
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Hyperlecture?
-    text: "Start earning within 15 days on alternative markets with our risk-reward partnership. Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable."
+    text: "Start running and earning within 15 days on alternative markets with our risk-reward partnership. Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
