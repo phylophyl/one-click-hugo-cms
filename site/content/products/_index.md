@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Hyperlecture Fast Marketing
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
