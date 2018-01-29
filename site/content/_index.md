@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Product Market Fit Agency"
+subtitle: Ultra Fast Visibilty Deployment on the French market
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
